@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "Method1";
+}
+
+<h1>Method1</h1>
+
+<h3>@TempData["Message"]</h3>
+<p>There are @TempData["ProductCount"] products in the list.</p>
+
+<h5>Product List</h5>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in TempData["Products"] as List<Product>)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    TempData.Keep("Message");
+}
+
+<a asp-controller="Product" asp-action="Method2">Method 2</a>

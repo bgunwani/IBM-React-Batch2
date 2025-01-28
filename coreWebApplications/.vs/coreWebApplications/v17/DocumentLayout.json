@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\IBM-React-Batch2\\coreWebApplications\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,22 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "coreMvcApp\\Models\\Employee.cs",
-              "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Models\\Employee.cs",
-              "RelativeToolTip": "coreMvcApp\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T08:46:30.129Z",
-              "EditorCaption": ""
-            }
-          ]
+          "SelectedChildIndex": -1,
+          "Children": []
         }
       ]
     }

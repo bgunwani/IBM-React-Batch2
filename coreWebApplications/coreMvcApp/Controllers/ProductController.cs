@@ -20,5 +20,31 @@ namespace coreMvcApp.Controllers
             ViewBag.Products = products;
             return View();
         }
+
+        public IActionResult List()
+        {
+            ViewData["Message"] = "Product Management System";
+            ViewData["ProductCount"] = products.Count();
+            ViewData["Products"] = products;
+            return View();
+        }
+
+        public IActionResult Method1()
+        {
+            TempData["Message"] = "Product Management System";
+            TempData["ProductCount"] = products.Count();
+            TempData["Products"] = products;
+            return View();
+        }
+        public IActionResult Method2()
+        {
+            string? message = TempData["Message"] as string;
+            if(!string.IsNullOrEmpty(message))
+            {
+                TempData["Message"] = message;
+                return View();
+            }
+            return RedirectToAction("Index");
+        }
     }
 }

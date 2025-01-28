@@ -1,0 +1,26 @@
+﻿using coreMvcApp.Models;
+
+namespace coreMvcApp.Repositories
+{
+    public static class EmployeeRepository
+    {
+        private static List<Employee> _employees = new()
+        {
+            new Employee { Id = 1, Name = "King Kochhar", Salary = 12000 },
+            new Employee { Id = 2, Name = "John Smith", Salary = 22000 },
+            new Employee { Id = 3, Name = "Sarah Bowling", Salary = 10000 },
+            new Employee { Id = 4, Name = "Gautam Bhalla", Salary = 22000 },
+        };
+
+        public static List<Employee> GetAll() => _employees;
+
+        public static Employee? GetById(int id) => 
+            _employees.FirstOrDefault(x => x.Id == id);
+
+        public static void Add(Employee employee)
+        {
+            employee.Id = _employees.Max(x => x.Id) + 1;
+            _employees.Add(employee);
+        }
+    }
+}

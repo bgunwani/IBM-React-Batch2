@@ -26,6 +26,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\IBM-React-Batch2\coreWebApplications\coreMvcApp
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -36,6 +48,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Product/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Product/Method1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxNZXRob2QxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Product/Method2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxNZXRob2QyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/IBM-React-Batch2/coreWebApplications/coreMvcApp/Views/Shared/Error.cshtml]
