@@ -22,5 +22,22 @@ namespace coreMvcApp.Repositories
             employee.Id = _employees.Max(x => x.Id) + 1;
             _employees.Add(employee);
         }
+        public static void Update(Employee employee)
+        {
+            var existingEmployee = GetById(employee.Id);
+            if (existingEmployee != null)
+            {
+                existingEmployee.Name = employee.Name;
+                existingEmployee.Salary = employee.Salary;
+            }
+        }
+        public static void Delete(int id)
+        {
+            var existingEmployee = GetById(id);
+            if (existingEmployee != null)
+            {
+                _employees.Remove(existingEmployee);
+            }
+        }
     }
 }

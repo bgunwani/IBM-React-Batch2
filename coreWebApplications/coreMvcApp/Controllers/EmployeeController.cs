@@ -32,5 +32,22 @@ namespace coreMvcApp.Controllers
             EmployeeRepository.Add(employee);
             return RedirectToAction("Index");
         }
+
+        public IActionResult Edit(int id)
+        {
+            var employee = EmployeeRepository.GetById(id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            return View(employee);
+        }
+
+        [HttpPost]
+        public IActionResult Edit(Employee employee)
+        {
+            EmployeeRepository.Update(employee);
+            return RedirectToAction("Index");
+        }
     }
 }

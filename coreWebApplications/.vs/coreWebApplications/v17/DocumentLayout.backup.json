@@ -7,24 +7,20 @@
       "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|d:\\ibm-react-batch2\\corewebapplications\\coremvcapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC4862A7-8ACC-475D-B751-35ACBE21292E}|coreMvcApp\\coreMvcApp.csproj|solutionrelative:coremvcapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +35,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "coreMvcApp\\Controllers\\ProductController.cs",
-              "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "coreMvcApp\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAewCAAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T10:09:40.657Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "coreMvcApp\\Views\\Employee\\Create.cshtml",
@@ -59,20 +42,46 @@
               "RelativeToolTip": "coreMvcApp\\Views\\Employee\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T10:05:11.181Z",
+              "WhenOpened": "2025-01-28T10:52:28.685Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "coreMvcApp\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "coreMvcApp\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:51:52.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "coreMvcApp\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "coreMvcApp\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T10:50:47.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EmployeeRepository.cs",
               "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Repositories\\EmployeeRepository.cs",
               "RelativeDocumentMoniker": "coreMvcApp\\Repositories\\EmployeeRepository.cs",
               "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Repositories\\EmployeeRepository.cs",
               "RelativeToolTip": "coreMvcApp\\Repositories\\EmployeeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:28:32.893Z",
+              "WhenOpened": "2025-01-28T10:45:55.759Z",
               "EditorCaption": ""
             },
             {
@@ -83,56 +92,9 @@
               "RelativeDocumentMoniker": "coreMvcApp\\Controllers\\EmployeeController.cs",
               "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "coreMvcApp\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA5wCAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwDEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:50:34.821Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "coreMvcApp\\Models\\Employee.cs",
-              "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Models\\Employee.cs",
-              "RelativeToolTip": "coreMvcApp\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T09:26:47.817Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "dd2880a5-3501-4ddf-b1a8-83be65e3e141",
-        "Display": 0,
-        "X": 613,
-        "Y": 42,
-        "Width": 1109,
-        "Height": 618,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Views\\Employee\\Details.cshtml",
-              "RelativeDocumentMoniker": "coreMvcApp\\Views\\Employee\\Details.cshtml",
-              "ToolTip": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\Views\\Employee\\Details.cshtml",
-              "RelativeToolTip": "coreMvcApp\\Views\\Employee\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T09:52:43.207Z",
+              "WhenOpened": "2025-01-28T10:45:45.56Z",
               "EditorCaption": ""
             }
           ]

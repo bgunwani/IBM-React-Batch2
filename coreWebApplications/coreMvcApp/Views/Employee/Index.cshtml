@@ -23,7 +23,8 @@
                 <td>@item.Name</td>
                 <td>@item.Salary</td>
                 <td>
-                    <a asp-controller="Employee" asp-action="Details" asp-route-id="@item.Id">View Detail</a>
+                    <a asp-controller="Employee" asp-action="Details" asp-route-id="@item.Id">View Detail</a> |
+                    <a asp-controller="Employee" asp-action="Edit" asp-route-id="@item.Id">Edit</a>
                 </td>
             </tr>
         }
