@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj": {}
+    "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj": {
+    "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj",
+        "projectUniqueName": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj",
         "projectName": "coreMvcApp",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj",
+        "projectPath": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\coreMvcApp.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreMvcApp\\obj\\",
+        "outputPath": "D:\\IBM-React-Batch2\\coreWebApplications\\coreMvcApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
