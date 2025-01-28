@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "fjxHj4mm18qEKzWp2LboNKUgWdm+0WQ8QItWGYr3Yns=",
+  "Source": "coreBasicApp",
+  "BasePath": "_content/coreBasicApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "coreBasicApp\\wwwroot",
+      "Source": "coreBasicApp",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreBasicApp\\wwwroot\\",
+      "BasePath": "_content/coreBasicApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreBasicApp\\wwwroot\\css\\styles.css",
+      "SourceId": "coreBasicApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreBasicApp\\wwwroot\\",
+      "BasePath": "_content/coreBasicApp",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreBasicApp\\wwwroot\\dashboard.html",
+      "SourceId": "coreBasicApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreBasicApp\\wwwroot\\",
+      "BasePath": "_content/coreBasicApp",
+      "RelativePath": "dashboard.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\dashboard.html"
+    },
+    {
+      "Identity": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreBasicApp\\wwwroot\\script\\scripts.js",
+      "SourceId": "coreBasicApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\HP\\source\\repos\\coreWebApplications\\coreBasicApp\\wwwroot\\",
+      "BasePath": "_content/coreBasicApp",
+      "RelativePath": "script/scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script\\scripts.js"
+    }
+  ]
+}
